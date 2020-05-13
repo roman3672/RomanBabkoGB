@@ -1,0 +1,5 @@
+/project/project_express/node_modules/
+/project/project_normal_variant/node_modules/
+/Others/.idea/
+
+.DS_Store
